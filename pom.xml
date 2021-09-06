@@ -48,10 +48,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
             <properties>
-                <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>
-                    http://localhost:9000
-                </sonar.host.url>
+  <sonar.organization>cloudandcloud2020</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
             </properties>
         </profile>
         <profile>
